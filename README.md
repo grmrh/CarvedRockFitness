@@ -18,5 +18,5 @@ az acr task create \
 
 ```bash
 az acr task show --name buildcrf --registry $ACR --output table
-```
+
 
